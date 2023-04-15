@@ -1,1 +1,1 @@
-https://siri2023.github.io/Portfolio/
+siri2023.github.io/Portfolio/
