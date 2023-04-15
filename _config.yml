@@ -1,5 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
 title: Nesrine Arfaoui # your name (or website title) here
-logo: "C:\Users\W0476715\OneDrive - Nova Scotia Community College\Desktop" # your photo (or logo) here
+  <head> 
+<body>
+  <img src="C:\Users\biauser\Documents\GitHub\portfolio\images" alt="Image description">
+</body>
+</html>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   an Industrial engineering major
