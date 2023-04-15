@@ -10,7 +10,7 @@ As someone interested in Enviromental awareness i chose this dataset to analyse 
 <img src="https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638891998/EducationHub/photos/renewable-resources.jpg"/>
 
 ### Renewable Energy Consumption from 1990 - 2020
-<img src="![image](https://user-images.githubusercontent.com/123089800/232193820-7f9080b7-dd13-4f68-90fe-7c67385dea5f.png)"/>
+<img src="https://www.kaggleusercontent.com/kf/88902543/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..vvlp7XE6fnQu1vWA9Zgy0Q.1DoyN6pBFZKEJ5wl2qlJsoFnK5lmU94Slf4h1GzpM1GsJd1IwVTxq1WQGitAbkPVAbPWA09wFK7V4xd3zbIG75g-BbsEam0DBV6nwop6Yn-QfKZ2IuWqtU9r4-yl_qniQ7zogeElbU_mQKaiJ_XF8vUfC50UJIjntFo6C0T7jaD2oZ1fn9KEmEYh7nW6NnJd8TW23toUM6imnTks3Vgx8ITr2lyuB6ga0jiAtfDuG6iSZED-BRhlYpI-mFnvkOosyR6XjSEU_qnpAUCs-935VXni8euBSmqK0AFLzlG579ABJSut2TqGEU_7CcWQrA79yijiGL6Wd4sCOD6MWJ-BZeWoPMxSDliBkErlr1j114iNve0bEmBlVbHnuczIykAu53uNN0ea7g5GiNCEx0jUWZi9E1Hx512cl1smEYUYx5k8yvd8pH4ARgCH-i45EchfXBrCgc3D46mqBI6JdPICwsydE4AbyR8kL8A0muk-GD8PHV1_HK-n8UhUoewgpAlo1fjCW0h2xs0C1IzAAzPXqOYJhX-f1d-51UOoL5MT5jVix1Uo8r8W_pvvAlKRxd1M51zHWh69zzARA8im6slr8mrHAjrADvKRvo_1kRwBMHFCz6QJ3nCJPTAKv9jH46hxmiSqall_ty02KlwZBkahmrKeqoi_FOyljY2nOoyN7EdjAuMJS2iVCiMoYRNFJHuy.07IoTB82S8ahuvKBdk2rZQ/__results___files/__results___6_1.png)"/>
 
 
 > 💡 [View World Energy Consumption 1st draft report here](https://github.com/Siri2023/World-Energy-Consumption.git)
