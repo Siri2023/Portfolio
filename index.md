@@ -11,6 +11,8 @@ As someone interested in Enviromental awareness i chose this dataset to analyse 
 
 ### Renewable Energy Consumption from 1990 - 2020
 <img src = "./images/__results___6_1.png">
+![image](https://user-images.githubusercontent.com/123089800/233145167-132ab2bb-1848-4afa-998d-f31819bf88e3.png)
+
 
 
 ### Choropleth Map of Renewable Consumption by Solar, Wind, and Hydro
