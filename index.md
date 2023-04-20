@@ -44,3 +44,4 @@ The movie industry has always been a fascinating and dynamic field, with new fil
 ![image](https://user-images.githubusercontent.com/123089800/233272742-84e8718a-cd78-4550-8ffe-b3e8fc955254.png)
 ![image](https://user-images.githubusercontent.com/123089800/233272867-fe3539df-60fb-4398-9c16-82b7f1216027.png)
 ![image](https://user-images.githubusercontent.com/123089800/233273328-a3d61679-7348-48d5-aa5f-b5b4c1642202.png)
+> 💡 [View Highest Growing Movies Report report here](https://github.com/Siri2023/Highest-Growing-Movies-Report)
