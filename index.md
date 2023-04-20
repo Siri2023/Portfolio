@@ -36,3 +36,4 @@ This report was created to highlight the risks associated with certain driving b
 
 ![image](https://user-images.githubusercontent.com/123089800/233245249-7e9a23b8-5825-4ff8-9f33-e2ebe27ff434.png)
 
+> 💡 [View UK Traffic Casualties Analysis report here](https://github.com/Siri2023/UK-Traffic-Casualties-Analysis)
