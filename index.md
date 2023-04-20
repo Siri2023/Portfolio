@@ -45,3 +45,5 @@ The movie industry has always been a fascinating and dynamic field, with new fil
 ![image](https://user-images.githubusercontent.com/123089800/233272867-fe3539df-60fb-4398-9c16-82b7f1216027.png)
 ![image](https://user-images.githubusercontent.com/123089800/233273328-a3d61679-7348-48d5-aa5f-b5b4c1642202.png)
 > 💡 [View Highest Growing Movies Report report here](https://github.com/Siri2023/Highest-Growing-Movies-Report)
+
+[![](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](https://powerbi.microsoft.com/en-ca/landing/free-account/?&ef_id=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&OCID=AIDcmmf49tiyrn_SEM_Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB:G:s&gclid=Cj0KCQjwocShBhCOARIsAFVYq0iD6pFxccfuDaHxMqNrfabO5eYQ1ToD-NjcbIzGaGJH2zBVSqC4STkaAvvhEALw_wcB) [![](https://img.shields.io/badge/MicrosoftSQLserver-white?logo=MicrosoftSQLserver)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) [![](https://img.shields.io/badge/VisualStudio-white?logo=VisualStudio)](https://visualstudio.microsoft.com/)
