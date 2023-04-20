@@ -37,3 +37,10 @@ This report was created to highlight the risks associated with certain driving b
 ![image](https://user-images.githubusercontent.com/123089800/233245249-7e9a23b8-5825-4ff8-9f33-e2ebe27ff434.png)
 
 > 💡 [View UK Traffic Casualties Analysis report here](https://github.com/Siri2023/UK-Traffic-Casualties-Analysis)
+
+## Highest Growing Movies Report
+The movie industry has always been a fascinating and dynamic field, with new films constantly vying for audiences' attention. Some films, however, manage to capture the public's imagination in a big way and become massive box office hits. 
+![image](https://user-images.githubusercontent.com/123089800/233272484-08a52c89-fc25-48d5-b6e8-1cfe434fd93c.png)
+![image](https://user-images.githubusercontent.com/123089800/233272742-84e8718a-cd78-4550-8ffe-b3e8fc955254.png)
+![image](https://user-images.githubusercontent.com/123089800/233272867-fe3539df-60fb-4398-9c16-82b7f1216027.png)
+![image](https://user-images.githubusercontent.com/123089800/233273328-a3d61679-7348-48d5-aa5f-b5b4c1642202.png)
